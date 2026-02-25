@@ -1,4 +1,4 @@
-# 💫 TL;dr: Enthusiastic Quantum & Human-centered AI researcher. Exploring consciousness, AGI, and the spaces between ancient wisdom and future tech. Building robots and algorithms
+ 💫 TL;dr: Enthusiastic Quantum & Human-centered AI researcher. Exploring consciousness, AGI, and the spaces between ancient wisdom and future tech. Building robots and algorithms
 Hi I am Mujahid.<br>a third-year undergraduate, on a journey from non-technical roots to the frontiers of quantum computing and human-centered AI. <br><br>I build hybrid quantum-classical algorithms, explore Explainable AI, and tinker with robotics systems.<br>Lately, I've been obsessed with something bigger: understanding the essence of consciousness and what it would take to give AGI/ASI something resembling genuine nature.
 
 <br><br>I dove into competitive programming recently — mostly because I could, not because I had to.<br><br>IWhen I'm not coding, I'm usually lost in thoughts about:<br>Ancient history, mathematics, and philosophy<br>Spirituality, other dimensions, and time travel<br><br>The human brain — how it works and how we might one day bridge it with computing<br><br><br><br><br>I believe the best research happens at the intersection of rigorous science and deep curiosity about what it means to be human.<br>
@@ -15,12 +15,12 @@ Hi I am Mujahid.<br>a third-year undergraduate, on a journey from non-technical 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidmahfuz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-!https://github-profile-trophy.vercel.app/?username=mujahidmahfuz&theme=radical&no-frame=false&no-bg=false&margin-w=4
+![](https://github-profile-trophy.vercel.app/?username=mujahidmahfuz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-!https://github-contributor-stats.vercel.app/api?username=mujahidmahfuz&limit=5&theme=gotham&combine_all_yearly_contributions=true
+![](https://github-contributor-stats.vercel.app/api?username=mujahidmahfuz&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 ---
-![](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mujahidmahfuz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
